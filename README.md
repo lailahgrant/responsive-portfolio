@@ -5,3 +5,6 @@
 ### CSS 
 > Flexbox for layout
 > Media Queries for responsiveness
+
+### Netlify
+> link to the final website is [here](https://portfolio-responsive-website.netlify.app/)
